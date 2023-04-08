@@ -1,0 +1,20 @@
+[
+{
+"Name": "emmanuel",
+"Email": "wali",
+"Phone": "0908",
+"Msg": "i love you"
+},
+{
+"Name": "dove ",
+"Email": "dove.com",
+"Phone": "0906",
+"Msg": "i love with my being"
+},
+{
+"Name": "errrp",
+"Email": "waliemmanuel@gmail.com",
+"Phone": "080976",
+"Msg": "you are doing well"
+}
+]
